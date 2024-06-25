@@ -1,4 +1,3 @@
-![Buscante](thumbnail.png)
 
 # Buscante
 
